@@ -65,7 +65,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <dependency>
             <groupId>org.javapos</groupId>
             <artifactId>javapos-contracts</artifactId>
-            <version>1.14.3</version>
+            <version>1.15.1</version>
         </dependency> 
         
         <!-- ISO 8583-1:2003 Financial transaction card originated messages-->
