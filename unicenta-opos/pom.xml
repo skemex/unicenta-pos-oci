@@ -29,7 +29,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <name>Kriolos.POS.App</name> 
     
     <properties>
-        <mysql.version>8.0.29</mysql.version>
+        <mysql.version>8.0.31</mysql.version>
         <derby.version>10.15.2.0</derby.version>
         <jasperreports.version>6.20.1</jasperreports.version>
         <flatlaf.version>2.0.2</flatlaf.version>
@@ -130,13 +130,13 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <dependency>
             <groupId>org.hsqldb</groupId>
             <artifactId>hsqldb</artifactId>
-            <version>2.6.1</version>
+            <version>2.7.1</version>
             <scope>runtime</scope>
         </dependency>
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>42.4.1</version>
+            <version>42.4.3</version>
             <scope>runtime</scope>
         </dependency>
         
